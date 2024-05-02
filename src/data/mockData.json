@@ -1,0 +1,2849 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 416,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XkJKDwAAQBAJ",
+      "etag": "K5Mcj8S5F7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XkJKDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Essential Cyber Security Handbook In English",
+        "subtitle": "",
+        "authors": ["Nam H Nguyen"],
+        "publisher": "Nam H Nguyen",
+        "publishedDate": "2018-02-03",
+        "description": "The Essential Cyber Security Handbook is a great resource anywhere you go; it presents the most current and leading edge research on system safety and security. You do not need to be a cyber-security expert to protect your information. There are people out there whose main job it is trying to steal personal and financial information. Are you worried about your online safety but you do not know where to start? So this handbook will give you, students, scholars, schools, corporates, businesses, governments and technical decision-makers the necessary knowledge to make informed decisions on cyber security at home or at work. 5 Questions CEOs Should Ask About Cyber Risks, 8 Most Common Internet Security Issues You May Face, Avoiding Copyright Infringement, Avoiding Social Engineering and Phishing Attacks, Avoiding the Pitfalls of Online Trading, Banking Securely Online, Basic Security Concepts, Basics of Cloud Computing, Before You Connect a New Computer to the Internet, Benefits and Risks of Free Email Services, Benefits of BCC, Browsing Safely - Understanding Active Content and Cookies, Choosing and Protecting Passwords, Common Risks of Using Business Apps in the Cloud, Coordinating Virus and Spyware Defense, Cybersecurity for Electronic Devices, Data Backup Options, Dealing with Cyberbullies, Debunking Some Common Myths, Defending Cell Phones and PDAs Against Attack, Disposing of Devices Safely, Effectively Erasing Files, Evaluating Your Web Browser's Security Settings, Good Security Habits, Guidelines for Publishing Information Online, Handling Destructive Malware, Holiday Traveling with Personal Internet-Enabled Devices, Home Computer and Internet security, How Anonymous Are You, How to stop most of the adware tracking cookies Mac, Windows and Android, Identifying Hoaxes and Urban Legends, Keeping Children Safe Online, Playing it Safe - Avoiding Online Gaming Risks, Prepare for Heightened Phishing Risk Tax Season, Preventing and Responding to Identity Theft, Privacy and Data Security, Protect Your Workplace, Protecting Aggregated Data, Protecting Portable Devices - Data Security, Protecting Portable Devices - Physical Security, Protecting Your Privacy, Questions Bank Leaders, Real-World Warnings Keep You Safe Online, Recognizing and Avoiding Email Scams, Recognizing and Avoiding Spyware, Recognizing Fake Antiviruses, Recovering from a Trojan Horse or Virus, Recovering from Viruses, Worms, and Trojan Horses, Reducing Spam, Reviewing End-User License Agreements, Risks of File-Sharing Technology, Safeguarding Your Data, Securing Voter Registration Data, Securing Wireless Networks, Securing Your Home Network, Shopping Safely Online, Small Office or Home Office Router Security, Socializing Securely - Using Social Networking Services, Software License Agreements - Ignore at Your Own Risk, Spyware Home, Staying Safe on Social Networking Sites, Supplementing Passwords, The Risks of Using Portable Devices, Threats to mobile phones, Understanding and Protecting Yourself Against Money Mule Schemes, Understanding Anti-Virus Software, Understanding Bluetooth Technology, Understanding Denial-of-Service Attacks, Understanding Digital Signatures, Understanding Encryption, Understanding Firewalls, Understanding Hidden Threats - Rootkits and Botnets, Understanding Hidden Threats Corrupted Software Files, Understanding Internationalized Domain Names, Understanding ISPs, Understanding Patches, Understanding Voice over Internet Protocol (VoIP), Understanding Web Site Certificates, Understanding Your Computer - Email Clients, Understanding Your Computer - Operating Systems, Understanding Your Computer - Web Browsers, Using Caution with Email Attachments, Using Caution with USB Drives, Using Instant Messaging and Chat Rooms Safely, Using Wireless Technology Securely, Why is Cyber Security a Problem, Why Secure Your Browser, and Glossary of Cybersecurity Terms. A thank you to my wonderful wife Beth (Griffo) Nguyen and my amazing sons Taylor Nguyen and Ashton Nguyen for all their love and support, without their emotional support and help, none of these educational language eBooks and audios would be possible.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 311,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XkJKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XkJKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XkJKDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XkJKDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essential_Cyber_Security_Handbook_In_Eng.html?hl=&id=XkJKDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XkJKDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "So this handbook will give you, students, scholars, schools, corporates, businesses, governments and technical decision-makers the necessary knowledge to make informed decisions on cyber security at home or at work. 5 Questions CEOs Should ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VLEcEAAAQBAJ",
+      "etag": "LH4WjsLUDZA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VLEcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to Cyber Security",
+        "subtitle": "Guide to the World of Cyber Security",
+        "authors": ["Anand Shinde"],
+        "publisher": "Notion Press",
+        "publishedDate": "2021-02-28",
+        "description": "Introduction to Cyber Security is a handy guide to the world of Cyber Security. It can serve as a reference manual for those working in the Cyber Security domain. The book takes a dip in history to talk about the very first computer virus, and at the same time, discusses in detail about the latest cyber threats. There are around four chapters covering all the Cyber Security technologies used across the globe. The book throws light on the Cyber Security landscape and the methods used by cybercriminals. Starting with the history of the Internet, the book takes the reader through an interesting account of the Internet in India, the birth of computer viruses, and how the Internet evolved over time. The book also provides an insight into the various techniques used by Cyber Security professionals to defend against the common cyberattacks launched by cybercriminals. The readers will also get to know about the latest technologies that can be used by individuals to safeguard themselves from any cyberattacks, such as phishing scams, social engineering, online frauds, etc. The book will be helpful for those planning to make a career in the Cyber Security domain. It can serve as a guide to prepare for the interviews, exams and campus work.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781637816431"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "163781643X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 333,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VLEcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VLEcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VLEcEAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VLEcEAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Cyber_Security.html?hl=&id=VLEcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VLEcEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It can serve as a reference manual for those working in the Cyber Security domain. The book takes a dip in history to talk about the very first computer virus, and at the same time, discusses in detail about the latest cyber threats."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nFP9wrNmGhcC",
+      "etag": "2P/GAiKvxH4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nFP9wrNmGhcC",
+      "volumeInfo": {
+        "title": "Inside Cyber Warfare",
+        "subtitle": "Mapping the Cyber Underworld",
+        "authors": ["Jeffrey Carr"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012",
+        "description": "Inside Cyber Warfare provides fascinating and disturbing details on how nations, groups, and individuals throughout the world use the Internet as an attack platform to gain military, political, and economic advantages over their adversaries. You'll discover how sophisticated hackers working on behalf of states or organized crime patiently play a high-stakes game that could target anyone, regardless of affiliation or nationality. The second edition goes beyond the headlines of attention-grabbing DDoS attacks and takes a deep look inside recent cyber-conflicts, including the use of Stuxnet. It also includes a Forward by Michael Chertoff (former Secretary of Homeland Security) and several guest essays, including one by Melissa Hathaway, former senior advisor to the Director of National Intelligence and Cyber Coordination Executive. Get an in-depth look at hot topics including: The role of social networks in fomenting revolution in the Middle East and Northern Africa The Kremlin's strategy to invest heavily in social networks (including Facebook) and how it benefits the Russian government How the U.S. Cyber Command and equivalent commands are being stood up in other countries The rise of Anonymous with analysis of its anti-structure and operational style or tempo Stuxnet and its predecessors, and what they reveal about the inherent weaknesses in critical infrastructure The Intellectual Property (IP) war, and how it has become the primary focus of state-sponsored cyber operations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449310042"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449310044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nFP9wrNmGhcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nFP9wrNmGhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nFP9wrNmGhcC&printsec=frontcover&dq=cyber&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nFP9wrNmGhcC&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inside_Cyber_Warfare.html?hl=&id=nFP9wrNmGhcC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nFP9wrNmGhcC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The second edition goes beyond the headlines of attention-grabbing DDoS attacks and takes a deep look inside recent cyber-conflicts, including the use of Stuxnet."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aRl2DQAAQBAJ",
+      "etag": "UJ2z4D/sSe8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aRl2DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Research Methods for Cyber Security",
+        "authors": ["Thomas W. Edgar", "David O. Manz"],
+        "publisher": "Syngress",
+        "publishedDate": "2017-04-19",
+        "description": "Research Methods for Cyber Security teaches scientific methods for generating impactful knowledge, validating theories, and adding critical rigor to the cyber security field. This book shows how to develop a research plan, beginning by starting research with a question, then offers an introduction to the broad range of useful research methods for cyber security research: observational, mathematical, experimental, and applied. Each research method chapter concludes with recommended outlines and suggested templates for submission to peer reviewed venues. This book concludes with information on cross-cutting issues within cyber security research. Cyber security research contends with numerous unique issues, such as an extremely fast environment evolution, adversarial behavior, and the merging of natural and social science phenomena. Research Methods for Cyber Security addresses these concerns and much more by teaching readers not only the process of science in the context of cyber security research, but providing assistance in execution of research as well. Presents research methods from a cyber security science perspective Catalyzes the rigorous research necessary to propel the cyber security field forward Provides a guided method selection for the type of research being conducted, presented in the context of real-world usage",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128129302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128129301"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aRl2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aRl2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aRl2DQAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aRl2DQAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Research_Methods_for_Cyber_Security.html?hl=&id=aRl2DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Research_Methods_for_Cyber_Security-sample-epub.acsm?id=aRl2DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Research_Methods_for_Cyber_Security-sample-pdf.acsm?id=aRl2DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aRl2DQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book shows how to develop a research plan, beginning by starting research with a question, then offers an introduction to the broad range of useful research methods for cyber security research: observational, mathematical, experimental ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rn4iHxIJ9hwC",
+      "etag": "mAcqJtPkPYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rn4iHxIJ9hwC",
+      "volumeInfo": {
+        "title": "Cyber Security",
+        "subtitle": "Turning National Solutions Into International Cooperation",
+        "authors": ["James Andrew Lewis"],
+        "publisher": "CSIS",
+        "publishedDate": "2003",
+        "description": "\"This volume looks at the challenges of cyberspace in an interdependent world and at the need for new, cooperative modes of governance to build cyber security. Making networks and critical infrastructure secure requires competent domestic strategies. But it also requires a willingness among governments to take the lead in supporting one another through effective legal structures and agreements such as the Council of Europe Convention on Cybercrime. The authors explore informal and formal bilateral and multilateral approaches to transnational cooperation on cyber security and examine the elements needed for success.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0892064269"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780892064267"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rn4iHxIJ9hwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rn4iHxIJ9hwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rn4iHxIJ9hwC&printsec=frontcover&dq=cyber&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rn4iHxIJ9hwC&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security.html?hl=&id=rn4iHxIJ9hwC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security-sample-epub.acsm?id=rn4iHxIJ9hwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security-sample-pdf.acsm?id=rn4iHxIJ9hwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rn4iHxIJ9hwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This volume looks at the challenges of cyberspace in an interdependent world and at the need for new, cooperative modes of governance to build cyber security."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SIcnAgAAQBAJ",
+      "etag": "eqUzN3fX71s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SIcnAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Transnational Dimension of Cyber Crime and Terrorism",
+        "authors": ["Seymour E. Goodman", "Abraham D. Sofaer"],
+        "publisher": "Hoover Institution Press",
+        "publishedDate": "2013-11-01",
+        "description": "In December 1999, more than forty members of government, industry, and academia assembled at the Hoover Institution to discuss this problem and explore possible countermeasures. The Transnational Dimension of Cyber Crime and Terrorism summarizes the conference papers and exchanges, addressing pertinent issues in chapters that include a review of the legal initiatives undertaken around the world to combat cyber crime, an exploration of the threat to civil aviation, analysis of the constitutional, legal, economic, and ethical constraints on use of technology to control cyber crime, a discussion of the ways we can achieve security objectives through international cooperation, and more. Much has been said about the threat posed by worldwide cyber crime, but little has been done to protect against it. A transnational response sufficient to meet this challenge is an immediate and compelling necessity—and this book is a critical first step in that direction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780817999865"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0817999868"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SIcnAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SIcnAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SIcnAgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SIcnAgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Transnational_Dimension_of_Cyber_Cri.html?hl=&id=SIcnAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SIcnAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A transnational response sufficient to meet this challenge is an immediate and compelling necessity—and this book is a critical first step in that direction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KOtxx_eWQCwC",
+      "etag": "7DsqX+hxCSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KOtxx_eWQCwC",
+      "volumeInfo": {
+        "title": "Cyber War",
+        "subtitle": "The Next Threat to National Security and What to Do About It",
+        "authors": ["Richard A. Clarke", "Robert K. Knake"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2010-04-02",
+        "description": "An essential, eye-opening book about cyberterrorism, cyber war, and the next great threat to our national security. “Cyber War may be the most important book about national security policy in the last several years.” –Slate Former presidential advisor and counter-terrorism expert Richard A. Clarke sounds a timely and chilling warning about America’s vulnerability in a terrifying new international conflict. Cyber War is a powerful book about technology, government, and military strategy; about criminals, spies, soldiers, and hackers. It explains clearly and convincingly what cyber war is, and how vulnerable we are as a nation and as individuals to the vast and looming web of cyber criminals. Every concerned American should read this startling and explosive book that offers an insider’s view of White House ‘Situation Room’ operations and carries the reader to the frontlines of our cyber defense. Cyber War exposes a virulent threat to our nation’s security.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061992391"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061992399"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KOtxx_eWQCwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KOtxx_eWQCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KOtxx_eWQCwC&printsec=frontcover&dq=cyber&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KOtxx_eWQCwC&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_War.html?hl=&id=KOtxx_eWQCwC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_War-sample-epub.acsm?id=KOtxx_eWQCwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KOtxx_eWQCwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An essential, eye-opening book about cyberterrorism, cyber war, and the next great threat to our national security. “Cyber War may be the most important book about national security policy in the last several years.” –Slate Former ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aVAGDAAAQBAJ",
+      "etag": "sNaoBHeZSIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aVAGDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Policing Cyber Hate, Cyber Threats and Cyber Terrorism",
+        "authors": ["Brian Blakemore"],
+        "publisher": "Routledge",
+        "publishedDate": "2016-04-22",
+        "description": "What are cyber threats? This book brings together a diverse range of multidisciplinary ideas to explore the extent of cyber threats, cyber hate and cyber terrorism. This ground-breaking text provides a comprehensive understanding of the range of activities that can be defined as cyber threats. It also shows how this activity forms in our communities and what can be done to try to prevent individuals from becoming cyber terrorists. This text will be of interest to academics, professionals and practitioners involved in building social capital; engaging with hard to reach individuals and communities; the police and criminal justice sector as well as IT professionals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317079125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317079124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aVAGDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aVAGDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aVAGDAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aVAGDAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Policing_Cyber_Hate_Cyber_Threats_and_Cy.html?hl=&id=aVAGDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Policing_Cyber_Hate_Cyber_Threats_and_Cy-sample-pdf.acsm?id=aVAGDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aVAGDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text will be of interest to academics, professionals and practitioners involved in building social capital; engaging with hard to reach individuals and communities; the police and criminal justice sector as well as IT professionals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TpmeBwAAQBAJ",
+      "etag": "1HD1s7F/Jww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TpmeBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber War Versus Cyber Realities",
+        "subtitle": "Cyber Conflict in the International System",
+        "authors": ["Brandon Valeriano", "Ryan C. Maness"],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "2015",
+        "description": "\"What Valeriano and Maness provide in this book is an empirically-grounded discussion of the reality of cyber conflict, based on an analysis of cyber incidents and disputes experienced by international states since 2001. They delineate patterns of cyber conflict to develop a larger theory of cyber war that gets at the processes leading to cyber conflict. They find that, in addition to being a little-used tactic, cyber incidents thus far have been of a rather low-level intensity and with few to no long-term effects. Interestingly, they also find that many cyber incidents are motivated by regional conflict. They argue that restraint is the norm in cyberspace and suggest there is evidence this norm can influence how the tactic is used in the future. In conclusion, the authors lay out a set of policy recommendations for proper defense against cyber threats that is built on restraint and regionalism\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780190204792"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0190204796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TpmeBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TpmeBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TpmeBwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TpmeBwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_War_Versus_Cyber_Realities.html?hl=&id=TpmeBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_War_Versus_Cyber_Realities-sample-pdf.acsm?id=TpmeBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TpmeBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cyber conflict is real, but is not changing the dynamics of international politics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cQ2XBQAAQBAJ",
+      "etag": "bGll1KZ4FVQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cQ2XBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Behavior: Concepts, Methodologies, Tools, and Applications",
+        "subtitle": "Concepts, Methodologies, Tools, and Applications",
+        "authors": ["Management Association, Information Resources"],
+        "publisher": "IGI Global",
+        "publishedDate": "2014-04-30",
+        "description": "Following the migration of workflows, data, and communication to the Cloud and other Internet-based frameworks, interaction over the Web has become ever more commonplace. As with any social situation, there are rules and consequences to actions within a virtual environment. Cyber Behavior: Concepts, Methodologies, Tools, and Applications explores the role of cyberspace in modern communication and interaction, including considerations of ethics, crime, security, and education. With chapters on a variety of topics and concerns inherent to a contemporary networked society, this multi-volume work will be of particular interest to students and academicians, as well as software developers, computer scientists, and specialists in the field of Information Technologies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466659438"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466659432"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 2300,
+        "printType": "BOOK",
+        "categories": ["Technology & Engineering"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cQ2XBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cQ2XBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cQ2XBQAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cQ2XBQAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Behavior_Concepts_Methodologies_To.html?hl=&id=cQ2XBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Behavior_Concepts_Methodologies_To-sample-pdf.acsm?id=cQ2XBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cQ2XBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With chapters on a variety of topics and concerns inherent to a contemporary networked society, this multi-volume work will be of particular interest to students and academicians, as well as software developers, computer scientists, and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d1aeBQAAQBAJ",
+      "etag": "n1aZhumdNrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d1aeBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Terrorism",
+        "subtitle": "Political and Economic Implications",
+        "authors": ["Andrew M. Colarik"],
+        "publisher": "IGI Global",
+        "publishedDate": "2006-01-01",
+        "description": "\"This book is a brief that outlines many of the recent terrorist activities, political objectives, and their use of cyber space\"--Provided by publisher.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781599040219"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1599040212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d1aeBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d1aeBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=d1aeBQAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=d1aeBQAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Terrorism.html?hl=&id=d1aeBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Terrorism-sample-pdf.acsm?id=d1aeBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d1aeBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;This book is a brief that outlines many of the recent terrorist activities, political objectives, and their use of cyber space&quot;--Provided by publisher."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XilTBgAAQBAJ",
+      "etag": "59Batj/93Rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XilTBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Attack",
+        "authors": ["Margaret J. Goldstein", "Martin Gitlin"],
+        "publisher": "Twenty-First Century Books",
+        "publishedDate": "2015-04-01",
+        "description": "Roughly 75% of Americans have experienced some form of cyber crime. In Cyber Attack, readers will investigate and analyze the ways in which cyber criminals are targeting everything from email and bank accounts to electrical grids and military computer systems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781467763042"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1467763047"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XilTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XilTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XilTBgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XilTBgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Attack.html?hl=&id=XilTBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Attack-sample-pdf.acsm?id=XilTBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XilTBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In 2013, the FBI started posting a new most wanted list—not for kidnappers, murderers, or armed robbers, but for online crooks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1E0SCAAAQBAJ",
+      "etag": "2mGbE9YyNeo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1E0SCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Warfare",
+        "subtitle": "Building the Scientific Foundation",
+        "authors": [
+          "Sushil Jajodia",
+          "Paulo Shakarian",
+          "V.S. Subrahmanian",
+          "Vipin Swarup",
+          "Cliff Wang"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2015-04-09",
+        "description": "This book features a wide spectrum of the latest computer science research relating to cyber warfare, including military and policy dimensions. It is the first book to explore the scientific foundation of cyber warfare and features research from the areas of artificial intelligence, game theory, programming languages, graph theory and more. The high-level approach and emphasis on scientific rigor provides insights on ways to improve cyber warfare defense worldwide. Cyber Warfare: Building the Scientific Foundation targets researchers and practitioners working in cyber security, especially government employees or contractors. Advanced-level students in computer science and electrical engineering with an interest in security will also find this content valuable as a secondary textbook or reference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319140391"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319140396"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1E0SCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1E0SCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1E0SCAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1E0SCAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Warfare.html?hl=&id=1E0SCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Warfare-sample-epub.acsm?id=1E0SCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Warfare-sample-pdf.acsm?id=1E0SCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1E0SCAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book features a wide spectrum of the latest computer science research relating to cyber warfare, including military and policy dimensions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n-ueBQAAQBAJ",
+      "etag": "YYC+eDwHF/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n-ueBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Crime: Concepts, Methodologies, Tools and Applications",
+        "subtitle": "Concepts, Methodologies, Tools and Applications",
+        "authors": ["Management Association, Information Resources"],
+        "publisher": "IGI Global",
+        "publishedDate": "2011-11-30",
+        "description": "Threatening the safety of individuals, computers, and entire networks, cyber crime attacks vary in severity and type. Studying this continually evolving discipline involves not only understanding different types of attacks, which range from identity theft to cyberwarfare, but also identifying methods for their prevention. Cyber Crime: Concepts, Methodologies, Tools and Applications is a three-volume reference that explores all aspects of computer-based crime and threats, offering solutions and best practices from experts in software development, information security, and law. As cyber crime continues to change and new types of threats emerge, research focuses on developing a critical understanding of different types of attacks and how they can best be managed and eliminated.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781613503249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1613503245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1977,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n-ueBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n-ueBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=n-ueBQAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=n-ueBQAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Crime_Concepts_Methodologies_Tools.html?hl=&id=n-ueBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Crime_Concepts_Methodologies_Tools-sample-pdf.acsm?id=n-ueBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n-ueBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cyber Crime: Concepts, Methodologies, Tools and Applications is a three-volume reference that explores all aspects of computer-based crime and threats, offering solutions and best practices from experts in software development, information ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2jp0BgAAQBAJ",
+      "etag": "dkbU0KIjWfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2jp0BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Crime and Digital Disorder",
+        "authors": ["P. Madhava Soma Sundaram and Syed Umarhathab"],
+        "publisher": "K. Jaishankar",
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789381402191"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9381402191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": ["Computer crimes"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2jp0BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2jp0BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2jp0BgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2jp0BgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Crime_and_Digital_Disorder.html?hl=&id=2jp0BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Crime_and_Digital_Disorder-sample-pdf.acsm?id=2jp0BgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2jp0BgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aeGwDwAAQBAJ",
+      "etag": "wnJq80Urct8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aeGwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Emerging Cyber Threats and Cognitive Vulnerabilities",
+        "authors": ["Vladlena Benson", "John Mcalaney"],
+        "publisher": "Academic Press",
+        "publishedDate": "2019-09-20",
+        "description": "Emerging Cyber Threats and Cognitive Vulnerabilities identifies the critical role human behavior plays in cybersecurity and provides insights into how human decision-making can help address rising volumes of cyberthreats. The book examines the role of psychology in cybersecurity by addressing each actor involved in the process: hackers, targets, cybersecurity practitioners and the wider social context in which these groups operate. It applies psychological factors such as motivations, group processes and decision-making heuristics that may lead individuals to underestimate risk. The goal of this understanding is to more quickly identify threat and create early education and prevention strategies. This book covers a variety of topics and addresses different challenges in response to changes in the ways in to study various areas of decision-making, behavior, artificial intelligence, and human interaction in relation to cybersecurity. Explains psychological factors inherent in machine learning and artificial intelligence Discusses the social psychology of online radicalism and terrorist recruitment Examines the motivation and decision-making of hackers and \"hacktivists\" Investigates the use of personality psychology to extract secure information from individuals",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780128165942"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0128165944"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aeGwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aeGwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aeGwDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aeGwDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Emerging_Cyber_Threats_and_Cognitive_Vul.html?hl=&id=aeGwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Emerging_Cyber_Threats_and_Cognitive_Vul-sample-epub.acsm?id=aeGwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Emerging_Cyber_Threats_and_Cognitive_Vul-sample-pdf.acsm?id=aeGwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aeGwDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book covers a variety of topics and addresses different challenges in response to changes in the ways in to study various areas of decision-making, behavior, artificial intelligence, and human interaction in relation to cybersecurity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LbnEDwAAQBAJ",
+      "etag": "wKQrGFKAmks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LbnEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Machine Learning Approaches in Cyber Security Analytics",
+        "authors": ["Tony Thomas", "Athira P. Vijayaraghavan", "Sabu Emmanuel"],
+        "publisher": "Springer Nature",
+        "publishedDate": "2019-12-16",
+        "description": "This book introduces various machine learning methods for cyber security analytics. With an overwhelming amount of data being generated and transferred over various networks, monitoring everything that is exchanged and identifying potential cyber threats and attacks poses a serious challenge for cyber experts. Further, as cyber attacks become more frequent and sophisticated, there is a requirement for machines to predict, detect, and identify them more rapidly. Machine learning offers various tools and techniques to automate and quickly predict, detect, and identify cyber attacks.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789811517068"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9811517061"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LbnEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LbnEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LbnEDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LbnEDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machine_Learning_Approaches_in_Cyber_Sec.html?hl=&id=LbnEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Machine_Learning_Approaches_in_Cyber_Sec-sample-epub.acsm?id=LbnEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Machine_Learning_Approaches_in_Cyber_Sec-sample-pdf.acsm?id=LbnEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LbnEDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book introduces various machine learning methods for cyber security analytics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fstoDgAAQBAJ",
+      "etag": "lAE3Y7OjIpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fstoDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Darkweb Cyber Threat Intelligence Mining",
+        "authors": ["John Robertson", "Ahmad Diab", "Ericsson Marin"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2017-04-04",
+        "description": "This book describes techniques and results in cyber threat intelligence from the center of the malicious hacking underworld - the dark web.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107185777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107185777"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fstoDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fstoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fstoDgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fstoDgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Darkweb_Cyber_Threat_Intelligence_Mining.html?hl=&id=fstoDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Darkweb_Cyber_Threat_Intelligence_Mining-sample-pdf.acsm?id=fstoDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fstoDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book describes techniques and results in cyber threat intelligence from the center of the malicious hacking underworld - the dark web."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VRIpDAAAQBAJ",
+      "etag": "ihHQ34eWFi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VRIpDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Crime, Security and Digital Intelligence",
+        "authors": ["Mark Johnson"],
+        "publisher": "Routledge",
+        "publishedDate": "2016-05-13",
+        "description": "Today's digital economy is uniquely dependent on the Internet, yet few users or decision makers have more than a rudimentary understanding of the myriad of online risks that threaten us. Cyber crime is one of the main threats to the integrity and availability of data and systems. From insiders to complex external attacks and industrial worms, modern business faces unprecedented challenges; and while cyber security and digital intelligence are the necessary responses to this challenge, they are understood by only a tiny minority. In his second book on high-tech risks, Mark Johnson goes far beyond enumerating past cases and summarising legal or regulatory requirements. He describes in plain, non-technical language how cyber crime has evolved and the nature of the very latest threats. He confronts issues that are not addressed by codified rules and practice guidelines, supporting this with over 30 valuable illustrations and tables. Written for the non-technical layman and the high tech risk manager alike, the book also explores countermeasures, penetration testing, best practice principles, cyber conflict and future challenges. A discussion of Web 2.0 risks delves into the very real questions facing policy makers, along with the pros and cons of open source data. In a chapter on Digital Intelligence readers are provided with an exhaustive guide to practical, effective and ethical online investigations. Cyber Crime, Security and Digital Intelligence is an important work of great relevance in today's interconnected world and one that nobody with an interest in either risk or technology should be without.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317155348"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317155343"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": ["Law"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VRIpDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VRIpDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VRIpDAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VRIpDAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Crime_Security_and_Digital_Intelli.html?hl=&id=VRIpDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Crime_Security_and_Digital_Intelli-sample-epub.acsm?id=VRIpDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Crime_Security_and_Digital_Intelli-sample-pdf.acsm?id=VRIpDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VRIpDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written for the non-technical layman and the high tech risk manager alike, the book also explores countermeasures, penetration testing, best practice principles, cyber conflict and future challenges."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wLkIEAAAQBAJ",
+      "etag": "6wIfPaNRW9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wLkIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Handbook of Research on Cyber Crime and Information Privacy",
+        "authors": ["Cruz-Cunha, Maria Manuela", "Mateus-Coelho, Nuno Ricardo"],
+        "publisher": "IGI Global",
+        "publishedDate": "2020-08-21",
+        "description": "In recent years, industries have transitioned into the digital realm, as companies and organizations are adopting certain forms of technology to assist in information storage and efficient methods of production. This dependence has significantly increased the risk of cyber crime and breaches in data security. Fortunately, research in the area of cyber security and information protection is flourishing; however, it is the responsibility of industry professionals to keep pace with the current trends within this field. The Handbook of Research on Cyber Crime and Information Privacy is a collection of innovative research on the modern methods of crime and misconduct within cyber space. It presents novel solutions to securing and preserving digital information through practical examples and case studies. While highlighting topics including virus detection, surveillance technology, and social networks, this book is ideally designed for cybersecurity professionals, researchers, developers, practitioners, programmers, computer scientists, academicians, security analysts, educators, and students seeking up-to-date research on advanced approaches and developments in cyber security and information protection.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781799857297"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1799857298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 753,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wLkIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wLkIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wLkIEAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wLkIEAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Research_on_Cyber_Crime_and.html?hl=&id=wLkIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Handbook_of_Research_on_Cyber_Crime_and-sample-pdf.acsm?id=wLkIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wLkIEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Handbook of Research on Cyber Crime and Information Privacy is a collection of innovative research on the modern methods of crime and misconduct within cyber space."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AdRxCgAAQBAJ",
+      "etag": "mFC89+R0W5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AdRxCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Transformational Dimensions of Cyber Crime",
+        "authors": ["Dr M N Sirohi"],
+        "publisher": "Vij Books India Pvt Ltd",
+        "publishedDate": "2015-05-21",
+        "description": "Cybercrimes committed against persons include various crimes like transmission of child-pornography harassment of any one with the use of a computer such as email. The trafficking, distribution, posting and dissemination of obscene material including pornography and indecent exposure, constitutes one of the most important cybercrimes known today. The worldwide information infrastructure is today increasingly under attack by cyber criminals and terrorists—and the number, cost, and sophistication of the attacks are increasing at alarming rates. The challenge of controlling transnational cyber crime requires a full range of responses, including both voluntary and legally mandated cooperation This book makes an serious attempt to understand the Cyber Crime which involves activities like Credit Card Frauds, unauthorized excess to other’s computer system, Pornography, Software piracy and Cyber stalking etc.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788193142233"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8193142233"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AdRxCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AdRxCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=AdRxCgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=AdRxCgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Transformational_Dimensions_of_Cyber_Cri.html?hl=&id=AdRxCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Transformational_Dimensions_of_Cyber_Cri-sample-epub.acsm?id=AdRxCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Transformational_Dimensions_of_Cyber_Cri-sample-pdf.acsm?id=AdRxCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AdRxCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The challenge of controlling transnational cyber crime requires a full range of responses, including both voluntary and legally mandated cooperation This book makes an serious attempt to understand the Cyber Crime which involves activities ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MMpJDwAAQBAJ",
+      "etag": "QF4YQ44YBDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MMpJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "SECURITY AGAINST CYBER-CRIME: PREVENTION AND DETECT",
+        "subtitle": "",
+        "authors": ["Dr. Madhu Tyagi"],
+        "publisher": "Horizon Books ( A Division of Ignited Minds Edutech P Ltd)",
+        "publishedDate": "2017-03-01",
+        "description": "In our daily life, economic activities, and national security highly depend on stability, safely, and resilient cyberspace. A network brings communications and transports, power to our homes, runour economy, and provide government with various services. However it is through the same cyber networks which intrude and attack our privacy, economy, social life in a way whichis harmful. Some scholars have interestingly argued that, “in the Internet nobody knows you are a dog”. This raises some legal issues and concerns. This book presents important issues on the Security, Prevention, and Detection of Cyber Crime.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789386369369"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9386369362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MMpJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MMpJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MMpJDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MMpJDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SECURITY_AGAINST_CYBER_CRIME_PREVENTION.html?hl=&id=MMpJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/SECURITY_AGAINST_CYBER_CRIME_PREVENTION-sample-pdf.acsm?id=MMpJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MMpJDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Some scholars have interestingly argued that, “in the Internet nobody knows you are a dog”. This raises some legal issues and concerns. This book presents important issues on the Security, Prevention, and Detection of Cyber Crime."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KTtODwAAQBAJ",
+      "etag": "AhS1WLFKJnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KTtODwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Security and Policy",
+        "subtitle": "A substantive dialogue",
+        "authors": ["Andrew Colarik"],
+        "publisher": "Massey University Press",
+        "publishedDate": "2017-04-01",
+        "description": "A world without the advantages and convenience provided by cyberspace and the internet of things is now unimaginable. But do we truly grasp the threats to this massive, interconnected system? And do we really understand how to secure it? After all, cyber security is no longer just a technology problem; the effort to secure systems and society are now one and the same. This book discusses cyber security and cyber policy in an effort to improve the use and acceptance of security services. It argues that a substantive dialogue around cyberspace, cyber security and cyber policy is critical to a better understanding of the serious security issues we face.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780994141590"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0994141599"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KTtODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KTtODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KTtODwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KTtODwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security_and_Policy.html?hl=&id=KTtODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_and_Polirbc-sample-epub.acsm?id=KTtODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_and_Polirbc-sample-pdf.acsm?id=KTtODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KTtODwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book discusses cyber security and cyber policy in an effort to improve the use and acceptance of security services."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XenMUZqG1vkC",
+      "etag": "zR+PkIJ8MX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XenMUZqG1vkC",
+      "volumeInfo": {
+        "title": "Advances in Cyber Security",
+        "subtitle": "Technology, Operation, and Experiences",
+        "authors": ["D. Frank Hsu", "Dorothy Marinucci"],
+        "publisher": "Fordham Univ Press",
+        "publishedDate": "2013-03",
+        "description": "Advances in Cyber Security provides, in a technical yet easy to understand fashion, a real life story of the evolving cyberspace ecosystem from the perspectives of structure, function, and application. It also provides ways and means to secure and sustain this ecosystem by the collective wisdom of professionals and practitioners from government, academia, and industry across national and international boundaries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780823244560"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0823244563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XenMUZqG1vkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XenMUZqG1vkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XenMUZqG1vkC&printsec=frontcover&dq=cyber&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XenMUZqG1vkC&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advances_in_Cyber_Security.html?hl=&id=XenMUZqG1vkC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Advances_in_Cyber_Security-sample-pdf.acsm?id=XenMUZqG1vkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XenMUZqG1vkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As you read this your computer is in jeopardy of being hacked and your identity being stolen. How can you protect yourself?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pdhyEAAAQBAJ",
+      "etag": "7NM486SAfn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pdhyEAAAQBAJ",
+      "volumeInfo": {
+        "title": "No Shortcuts",
+        "subtitle": "Why States Struggle to Develop a Military Cyber-Force",
+        "authors": ["Max Smeets"],
+        "publisher": "Hurst Publishers",
+        "publishedDate": "2022-06-02",
+        "description": "Over the past decade, numerous states have declared cyberspace as a new domain of warfare, sought to develop a military cyber strategy and establish a cyber command. These developments have led to much policy talk and concern about the future of warfare as well as the digital vulnerability of society. No Shortcuts provides a level-headed view of where we are in the militarization of cyberspace.In this book, Max Smeets bridges the divide between technology and policy to assess the necessary building blocks for states to develop a military cyber capacity. Smeets argues that for many states, the barriers to entry into conflict in cyberspace are currently too high. Accompanied by a wide range of empirical examples, Smeets shows why governments abilities to develop military cyber capabilities might change over time and explains the limits of capability transfer by states and private actors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787388710"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787388719"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pdhyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pdhyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pdhyEAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pdhyEAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/No_Shortcuts.html?hl=&id=pdhyEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/No_Shortcuts-sample-epub.acsm?id=pdhyEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/No_Shortcuts-sample-pdf.acsm?id=pdhyEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pdhyEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No Shortcuts provides a level-headed view of where we are in the militarization of cyberspace.In this book, Max Smeets bridges the divide between technology and policy to assess the necessary building blocks for states to develop a military ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hUg4DwAAQBAJ",
+      "etag": "oPjQVFvFq4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hUg4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyberspace and the State",
+        "subtitle": "Towards a Strategy for Cyber-Power",
+        "authors": ["David J. Betz"],
+        "publisher": "Routledge",
+        "publishedDate": "2017-10-03",
+        "description": "The major aim of Cyberspace and the State is to provide conceptual orientation on the new strategic environment of the Information Age. It seeks to restore the equilibrium of polirbc-makers which has been disturbed by recent cyber scares, as well as to bring clarity to academic debate on the subject particularly in the fields of politics and international relations, war and strategic studies. Its main chapters explore the impact of cyberspace upon the most central aspects of statehood and the state systempower, sovereignty, war, and dominion. It is concerned equally with practice as with theory and may be read in that sense as having two halves.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351224529"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351224522"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hUg4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hUg4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=hUg4DwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hUg4DwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyberspace_and_the_State.html?hl=&id=hUg4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyberspace_and_the_State-sample-epub.acsm?id=hUg4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyberspace_and_the_State-sample-pdf.acsm?id=hUg4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hUg4DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The major aim of Cyberspace and the State is to provide conceptual orientation on the new strategic environment of the Information Age."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ATcnAQAAQBAJ",
+      "etag": "Zqp9olw/HAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ATcnAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Security",
+        "subtitle": "Deterrence and IT Protection for Critical Infrastructures",
+        "authors": ["Maurizio Martellini"],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2013-10-04",
+        "description": "The experts of the International Working Group-Landau Network Centro Volta (IWG-LNCV) discuss aspects of cyber security and present possible methods of deterrence, defense and resilience against cyber attacks. This SpringerBrief covers state-of-the-art documentation on the deterrence power of cyber attacks and argues that nations are entering a new cyber arms race. The brief also provides a technical analysis of possible cyber attacks towards critical infrastructures in the chemical industry and chemical safety industry. The authors also propose modern analyses and a holistic approach to resilience and security of Industrial Control Systems. The combination of contextual overview and future directions in the field makes this brief a useful resource for researchers and professionals studying systems security, data security and data structures. Advanced-level students interested in data security will also find this brief a helpful guide to recent research.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319022796"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319022792"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ATcnAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ATcnAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ATcnAQAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ATcnAQAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security.html?hl=&id=ATcnAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security-sample-epub.acsm?id=ATcnAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security-sample-pdf.acsm?id=ATcnAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ATcnAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The experts of the International Working Group-Landau Network Centro Volta (IWG-LNCV) discuss aspects of cyber security and present possible methods of deterrence, defense and resilience against cyber attacks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "33H0AwAAQBAJ",
+      "etag": "oVN7HHC0ve0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/33H0AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Threat!",
+        "subtitle": "How to Manage the Growing Risk of Cyber Attacks",
+        "authors": ["MacDonnell Ulsch"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-07-28",
+        "description": "Conquering cyber attacks requires a multi-sector, multi-modal approach Cyber Threat! How to Manage the Growing Risk of Cyber Attacks is an in-depth examination of the very real cyber security risks facing all facets of government and industry, and the various factors that must align to maintain information integrity. Written by one of the nation's most highly respected cyber risk analysts, the book describes how businesses and government agencies must protect their most valuable assets to avoid potentially catastrophic consequences. Much more than just cyber security, the necessary solutions require government and industry to work cooperatively and intelligently. This resource reveals the extent of the problem, and provides a plan to change course and better manage and protect critical information. Recent news surrounding cyber hacking operations show how intellectual property theft is now a matter of national security, as well as economic and commercial security. Consequences are far-reaching, and can have enormous effects on national economies and international relations. Aggressive cyber forces in China, Russia, Eastern Europe and elsewhere, the rise of global organized criminal networks, and inattention to vulnerabilities throughout critical infrastructures converge to represent an abundantly clear threat. Managing the threat and keeping information safe is now a top priority for global businesses and government agencies. Cyber Threat! breaks the issue down into real terms, and proposes an approach to effective defense. Topics include: The information at risk The true extent of the threat The potential consequences across sectors The multifaceted approach to defense The growing cyber threat is fundamentally changing the nation's economic, diplomatic, military, and intelligence operations, and will extend into future technological, scientific, and geopolitical influence. The only effective solution will be expansive and complex, encompassing every facet of government and industry. Cyber Threat! details the situation at hand, and provides the information that can help keep the nation safe.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118836354"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118836359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=33H0AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=33H0AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=33H0AwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=33H0AwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Threat.html?hl=&id=33H0AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Threat-sample-pdf.acsm?id=33H0AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=33H0AwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are problems that every organization should address right away. Cyber Threat! was written to guide that process with strategies for assessing risk and tips for managing your brand should an attack occur."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VJ6oCgAAQBAJ",
+      "etag": "9PKuqFttRDk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VJ6oCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber-Risk Management",
+        "authors": ["Atle Refsdal", "Bjørnar Solhaug", "Ketil Stølen"],
+        "publisher": "Springer",
+        "publishedDate": "2015-10-01",
+        "description": "This book provides a brief and general introduction to cybersecurity and cyber-risk assessment. Not limited to a specific approach or technique, its focus is highly pragmatic and is based on established international standards (including ISO 31000) as well as industrial best practices. It explains how cyber-risk assessment should be conducted, which techniques should be used when, what the typical challenges and problems are, and how they should be addressed. The content is divided into three parts. First, part I provides a conceptual introduction to the topic of risk management in general and to cybersecurity and cyber-risk management in particular. Next, part II presents the main stages of cyber-risk assessment from context establishment to risk treatment and acceptance, each illustrated by a running example. Finally, part III details four important challenges and how to reasonably deal with them in practice: risk measurement, risk scales, uncertainty, and low-frequency risks with high consequence. The target audience is mainly practitioners and students who are interested in the fundamentals and basic principles and techniques of security risk assessment, as well as lecturers seeking teaching material. The book provides an overview of the cyber-risk assessment process, the tasks involved, and how to complete them in practice.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319235707"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3319235702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VJ6oCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VJ6oCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VJ6oCgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VJ6oCgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Risk_Management.html?hl=&id=VJ6oCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Risk_Management-sample-pdf.acsm?id=VJ6oCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VJ6oCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book provides an overview of the cyber-risk assessment process, the tasks involved, and how to complete them in practice. This book provides a brief and general introduction to cybersecurity and cyber-risk assessment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tGuMDgAAQBAJ",
+      "etag": "axZld5wKGBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tGuMDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Cyber Risk Handbook",
+        "subtitle": "Creating and Measuring Effective Cybersecurity Capabilities",
+        "authors": ["Domenic Antonucci"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2017-05-01",
+        "description": "Actionable guidance and expert perspective for real-world cybersecurity The Cyber Risk Handbook is the practitioner's guide to implementing, measuring and improving the counter-cyber capabilities of the modern enterprise. The first resource of its kind, this book provides authoritative guidance for real-world situations, and cross-functional solutions for enterprise-wide improvement. Beginning with an overview of counter-cyber evolution, the discussion quickly turns practical with design and implementation guidance for the range of capabilities expected of a robust cyber risk management system that is integrated with the enterprise risk management (ERM) system. Expert contributors from around the globe weigh in on specialized topics with tools and techniques to help any type or size of organization create a robust system tailored to its needs. Chapter summaries of required capabilities are aggregated to provide a new cyber risk maturity model used to benchmark capabilities and to road-map gap-improvement. Cyber risk is a fast-growing enterprise risk, not just an IT risk. Yet seldom is guidance provided as to what this means. This book is the first to tackle in detail those enterprise-wide capabilities expected by Board, CEO and Internal Audit, of the diverse executive management functions that need to team up with the Information Security function in order to provide integrated solutions. Learn how cyber risk management can be integrated to better protect your enterprise Design and benchmark new and improved practical counter-cyber capabilities Examine planning and implementation approaches, models, methods, and more Adopt a new cyber risk maturity model tailored to your enterprise needs The need to manage cyber risk across the enterprise—inclusive of the IT operations—is a growing concern as massive data breaches make the news on an alarmingly frequent basis. With a cyber risk management system now a business-necessary requirement, practitioners need to assess the effectiveness of their current system, and measure its gap-improvement over time in response to a dynamic and fast-moving threat landscape. The Cyber Risk Handbook brings the world's best thinking to bear on aligning that system to the enterprise and vice-a-versa. Every functional head of any organization must have a copy at-hand to understand their role in achieving that alignment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119308805"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119308801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 442,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tGuMDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tGuMDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tGuMDgAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tGuMDgAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cyber_Risk_Handbook.html?hl=&id=tGuMDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Cyber_Risk_Handbook-sample-pdf.acsm?id=tGuMDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tGuMDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Praise for The Cyber Risk Handbook &quot;Domenic Antonucci and his outstanding collection of contributors have produced a most timely and comprehensive reference and teaching guide on one of the most potentially impactful and evolving risks ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VBwgEAAAQBAJ",
+      "etag": "VXB+mq0JG+s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VBwgEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ransomware Revolution: The Rise of a Prodigious Cyber Threat",
+        "authors": ["Matthew Ryan"],
+        "publisher": "Springer Nature",
+        "publishedDate": "2021-02-24",
+        "description": "This book explores the genesis of ransomware and how the parallel emergence of encryption technologies has elevated ransomware to become the most prodigious cyber threat that enterprises are confronting. It also investigates the driving forces behind what has been dubbed the ‘ransomware revolution’ after a series of major attacks beginning in 2013, and how the advent of cryptocurrencies provided the catalyst for the development and increased profitability of ransomware, sparking a phenomenal rise in the number and complexity of ransomware attacks. This book analyzes why the speed of technology adoption has been a fundamental factor in the continued success of financially motivated cybercrime, and how the ease of public access to advanced encryption techniques has allowed malicious actors to continue to operate with increased anonymity across the internet. This anonymity has enabled increased collaboration between attackers, which has aided the development of new ransomware attacks, and led to an increasing level of technical complexity in ransomware attacks. This book highlights that the continuous expansion and early adoption of emerging technologies may be beyond the capacity of conventional risk managers and risk management frameworks. Researchers and advanced level students studying or working in computer science, business or criminology will find this book useful as a reference or secondary text. Professionals working in cybersecurity, cryptography, information technology, financial crime (and other related topics) will also welcome this book as a reference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030665838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030665836"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VBwgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VBwgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VBwgEAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VBwgEAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ransomware_Revolution_The_Rise_of_a_Prod.html?hl=&id=VBwgEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ransomware_Revolution_The_Rise_of_a_Prod-sample-epub.acsm?id=VBwgEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ransomware_Revolution_The_Rise_of_a_Prod-sample-pdf.acsm?id=VBwgEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VBwgEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book explores the genesis of ransomware and how the parallel emergence of encryption technologies has elevated ransomware to become the most prodigious cyber threat that enterprises are confronting."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v35TDwAAQBAJ",
+      "etag": "Dtk/S2oWplk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v35TDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Security and Threats: Concepts, Methodologies, Tools, and Applications",
+        "subtitle": "Concepts, Methodologies, Tools, and Applications",
+        "authors": ["Management Association, Information Resources"],
+        "publisher": "IGI Global",
+        "publishedDate": "2018-05-04",
+        "description": "Cyber security has become a topic of concern over the past decade as private industry, public administration, commerce, and communication have gained a greater online presence. As many individual and organizational activities continue to evolve in the digital sphere, new vulnerabilities arise. Cyber Security and Threats: Concepts, Methodologies, Tools, and Applications contains a compendium of the latest academic material on new methodologies and applications in the areas of digital security and threats. Including innovative studies on cloud security, online threat protection, and cryptography, this multi-volume book is an ideal source for IT specialists, administrators, researchers, and students interested in uncovering new ways to thwart cyber breaches and protect sensitive digital information.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781522556350"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1522556354"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1711,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v35TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v35TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=v35TDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=v35TDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security_and_Threats_Concepts_Meth.html?hl=&id=v35TDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_and_Threats_Concepts_Meth-sample-pdf.acsm?id=v35TDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v35TDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Including innovative studies on cloud security, online threat protection, and cryptography, this multi-volume book is an ideal source for IT specialists, administrators, researchers, and students interested in uncovering new ways to thwart ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBQpDAAAQBAJ",
+      "etag": "Fa3NkPIICRM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBQpDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Security Management",
+        "subtitle": "A Governance, Risk and Compliance Framework",
+        "authors": ["Peter Trim", "Yang-Im Lee"],
+        "publisher": "Routledge",
+        "publishedDate": "2016-05-13",
+        "description": "Cyber Security Management: A Governance, Risk and Compliance Framework by Peter Trim and Yang-Im Lee has been written for a wide audience. Derived from research, it places security management in a holistic context and outlines how the strategic marketing approach can be used to underpin cyber security in partnership arrangements. The book is unique because it integrates material that is of a highly specialized nature but which can be interpreted by those with a non-specialist background in the area. Indeed, those with a limited knowledge of cyber security will be able to develop a comprehensive understanding of the subject and will be guided into devising and implementing relevant policy, systems and procedures that make the organization better able to withstand the increasingly sophisticated forms of cyber attack. The book includes a sequence-of-events model; an organizational governance framework; a business continuity management planning framework; a multi-cultural communication model; a cyber security management model and strategic management framework; an integrated governance mechanism; an integrated resilience management model; an integrated management model and system; a communication risk management strategy; and recommendations for counteracting a range of cyber threats. Cyber Security Management: A Governance, Risk and Compliance Framework simplifies complex material and provides a multi-disciplinary perspective and an explanation and interpretation of how managers can manage cyber threats in a pro-active manner and work towards counteracting cyber threats both now and in the future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317155256"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317155254"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EBQpDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EBQpDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EBQpDAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EBQpDAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security_Management.html?hl=&id=EBQpDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_Management-sample-epub.acsm?id=EBQpDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_Management-sample-pdf.acsm?id=EBQpDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBQpDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book includes a sequence-of-events model; an organizational governance framework; a business continuity management planning framework; a multi-cultural communication model; a cyber security management model and strategic management ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ip2MCwAAQBAJ",
+      "etag": "Fud8LpHs3Bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ip2MCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Current and Emerging Trends in Cyber Operations",
+        "subtitle": "Policy, Strategy and Practice",
+        "authors": ["Frederic Lemieux"],
+        "publisher": "Springer",
+        "publishedDate": "2015-08-27",
+        "description": "This book explores current and emerging trends in policy, strategy, and practice related to cyber operations conducted by states and non-state actors. The book examines in depth the nature and dynamics of conflicts in the cyberspace, the geopolitics of cyber conflicts, defence strategy and practice, cyber intelligence and information security.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781137455550"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1137455551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ip2MCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ip2MCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ip2MCwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ip2MCwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Current_and_Emerging_Trends_in_Cyber_Ope.html?hl=&id=ip2MCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Current_and_Emerging_Trends_in_Cyber_Ope-sample-epub.acsm?id=ip2MCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Current_and_Emerging_Trends_in_Cyber_Ope-sample-pdf.acsm?id=ip2MCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ip2MCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book explores current and emerging trends in policy, strategy, and practice related to cyber operations conducted by states and non-state actors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ui3tDwAAQBAJ",
+      "etag": "FPU3D1Blivg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ui3tDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Arms",
+        "subtitle": "Security in Cyberspace",
+        "authors": ["Stanislav Abaimov", "Maurizio Martellini"],
+        "publisher": "CRC Press",
+        "publishedDate": "2020-07-02",
+        "description": "This book will raise awareness on emerging challenges of AIempowered cyber arms used in weapon systems and stockpiled in the global cyber arms race. Based on real life events, it provides a comprehensive analysis of cyber offensive and defensive landscape, analyses the cyber arms evolution from prank malicious codes into lethal weapons of mass destruction, reveals the scale of cyber offensive conflicts, explores cyber warfare mutation, warns about cyber arms race escalation and use of Artificial Intelligence (AI) for military purposes. It provides an expert insight into the current and future malicious and destructive use of the evolved cyber arms, AI and robotics, with emphasis on cyber threats to CBRNe and critical infrastructure. The book highlights international efforts in regulating the cyber environment, reviews the best practices of the leading cyber powers and their controversial approaches, recommends responsible state behaviour. It also proposes information security and cyber defence solutions and provides definitions for selected conflicting cyber terms. The disruptive potential of cyber tools merging with military weapons is examined from the technical point of view, as well as legal, ethical, and political perspectives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000081176"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000081176"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ui3tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ui3tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ui3tDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ui3tDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Arms.html?hl=&id=ui3tDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Arms-sample-epub.acsm?id=ui3tDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Arms-sample-pdf.acsm?id=ui3tDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ui3tDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will raise awareness on emerging challenges of AIempowered cyber arms used in weapon systems and stockpiled in the global cyber arms race."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JXyUEAAAQBAJ",
+      "etag": "2FiWKMOq+mQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JXyUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Building a Cyber Resilient Business",
+        "subtitle": "A cyber handbook for executives and boards",
+        "authors": ["Dr. Magda Lilia Chelly", "Shamane Tan", "Hai Tran"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2022-11-04",
+        "description": "Learn how to build a proactive cybersecurity culture together with the rest of your C-suite to effectively manage cyber risks Key FeaturesEnable business acceleration by preparing your organization against cyber risksDiscover tips and tricks to manage cyber risks in your organization and build a cyber resilient businessUnpack critical questions for the C-suite to ensure the firm is intentionally building cyber resilienceBook Description With cyberattacks on the rise, it has become essential for C-suite executives and board members to step up and collectively recognize cyber risk as a top priority business risk. However, non-cyber executives find it challenging to understand their role in increasing the business's cyber resilience due to its complex nature and the lack of a clear return on investment. This book demystifies the perception that cybersecurity is a technical problem, drawing parallels between the key responsibilities of the C-suite roles to line up with the mission of the Chief Information Security Officer (CISO). The book equips you with all you need to know about cyber risks to run the business effectively. Each chapter provides a holistic overview of the dynamic priorities of the C-suite (from the CFO to the CIO, COO, CRO, and so on), and unpacks how cybersecurity must be embedded in every business function. The book also contains self-assessment questions, which are a helpful tool in evaluating any major cybersecurity initiatives and/or investment required. With this book, you'll have a deeper appreciation of the various ways all executives can contribute to the organization's cyber program, in close collaboration with the CISO and the security team, and achieve a cyber-resilient, profitable, and sustainable business. What you will learnUnderstand why cybersecurity should matter to the C-suiteExplore how different roles contribute to an organization's securityDiscover how priorities of roles affect an executive's contribution to securityUnderstand financial losses and business impact caused by cyber risksCome to grips with the role of the board of directors in cybersecurity programsLeverage the recipes to build a strong cybersecurity cultureDiscover tips on cyber risk quantification and cyber insuranceDefine a common language that bridges the gap between business and cybersecurityWho this book is for This book is for the C-suite and executives who are not necessarily working in cybersecurity. The guidebook will bridge the gaps between the CISO and the rest of the executives, helping CEOs, CFOs, CIOs, COOs, etc., to understand how they can work together with the CISO and their team to achieve organization-wide cyber resilience for business value preservation and growth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781803239699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1803239697"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JXyUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JXyUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JXyUEAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JXyUEAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_a_Cyber_Resilient_Business.html?hl=&id=JXyUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JXyUEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book demystifies the perception that cybersecurity is a technical problem, drawing parallels between the key responsibilities of the C-suite roles to line up with the mission of the Chief Information Security Officer (CISO)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DrNSDwAAQBAJ",
+      "etag": "1JxYxfmuOOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DrNSDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Strategy",
+        "subtitle": "The Evolving Character of Power and Coercion",
+        "authors": [
+          "Brandon Valeriano",
+          "Benjamin M. Jensen",
+          "Ryan C. Maness"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2018",
+        "description": "How rival states employ cyber strategy : disruption, espionage, and degradation -- The correlates of cyber strategy -- Cyber coercion as a combined strategy -- Commissars and crooks : Russian cyber coercion -- China and the technology gap : Chinese strategic behavior in cyberspace -- The United States : the cyber reconnaissance-strike complex",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780190618094"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0190618094"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DrNSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DrNSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DrNSDwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DrNSDwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Strategy.html?hl=&id=DrNSDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Strategy-sample-pdf.acsm?id=DrNSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DrNSDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By examining cyber strategy as a contemporary form of political warfare and covert action, this book demonstrates that the digital domain complements rather than replaces traditional instruments of power."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyn7DwAAQBAJ",
+      "etag": "t4+ZN502RXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyn7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cyber Security Practitioner's Guide",
+        "authors": ["Hamid Jahankhani"],
+        "publisher": "World Scientific",
+        "publishedDate": "2020-02-24",
+        "description": "In an era of unprecedented volatile political and economic environments across the world, computer-based cyber security systems face ever growing challenges. While the internet has created a global platform for the exchange of ideas, goods and services, it has also created boundless opportunities for cyber crime. The debate over how to plan for the cyber security of the future has focused the minds of developers and scientists alike. This book aims to provide a reference on current and emerging issues on systems security from the lens of autonomy, artificial intelligence and ethics as the race to fight and prevent cyber crime becomes increasingly pressing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789811204470"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9811204470"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 597,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zyn7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zyn7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zyn7DwAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zyn7DwAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cyber_Security_Practitioner_s_Guide.html?hl=&id=zyn7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_Practitioner_s_Guide-sample-epub.acsm?id=zyn7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Cyber_Security_Practitioner_s_Guide-sample-pdf.acsm?id=zyn7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyn7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book aims to provide a reference on current and emerging issues on systems security from the lens of autonomy, artificial intelligence and ethics as the race to fight and prevent cyber crime becomes increasingly pressing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BSU9EAAAQBAJ",
+      "etag": "wK9ZBW53A34",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BSU9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Deviant Security Practices of Cyber Crime",
+        "authors": ["Erik H.A. van de Sandt"],
+        "publisher": "BRILL",
+        "publishedDate": "2021-08-09",
+        "description": "This is the first book to present a full, socio-technical-legal picture on the security practices of cyber criminals, based on confidential police sources related to some of the world's most serious and organized criminals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789004463189"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9004463186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": ["Law"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BSU9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BSU9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BSU9EAAAQBAJ&printsec=frontcover&dq=cyber&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BSU9EAAAQBAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Deviant_Security_Practices_of_Cyber.html?hl=&id=BSU9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Deviant_Security_Practices_of_Cyber-sample-pdf.acsm?id=BSU9EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BSU9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book academic and police officer Erik van de Sandt researches the security practices of cyber criminals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qx2EzwEACAAJ",
+      "etag": "MsjdeDNjvSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qx2EzwEACAAJ",
+      "volumeInfo": {
+        "title": "Routledge Companion to Global Cyber-Security Strategy",
+        "authors": ["Scott N. Romaniuk", "Mary Manjikian"],
+        "publisher": "Routledge",
+        "publishedDate": "2023-01-09",
+        "description": "This companion provides the most comprehensive and up-to-date comparative overview of the cyber-security strategies and doctrines of the major states and actors in Europe, North America, South America, Africa, and Asia. The volume offers an introduction to each nation's cyber-security strategy and policy, along with a list of resources in English that may be consulted for those wishing to go into greater depth. Each chapter is written by a leading academic or policy specialist, and contains the following sections: overview of national cyber-security strategy; concepts and definitions; exploration of cyber-security issues as they relate to international law and governance; critical examinations of cyber partners at home and abroad; legislative developments and processes; dimensions of cybercrime and cyberterrorism; implications of cyber-security policies and strategies. This book will be of much interest to students and practitioners in the fields of cyber-security, national security, strategic studies, foreign policy, and international relations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0367620669"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780367620660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qx2EzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qx2EzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qx2EzwEACAAJ&dq=cyber&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qx2EzwEACAAJ&dq=cyber&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Routledge_Companion_to_Global_Cyber_Secu.html?hl=&id=qx2EzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qx2EzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will be of much interest to students and practitioners in the fields of cyber-security, national security, strategic studies, foreign policy, and international relations."
+      }
+    }
+  ]
+}

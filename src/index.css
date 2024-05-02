@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rbc-margin-top-1em {
+  margin-top: 1em;
+}
+.rbc-margin-top-2em {
+  margin-top: 2em;
+}
+.rbc-padding-top-1em {
+  padding-top: 1em;
+}
+.rbc-padding-bottom-1em {
+  padding-bottom: 1em;
+}
+.rbc-navbar-tlbr-margin {
+  margin-top: 20px;
+}
+
+.rbc-book-card-description {
+  width: 225px !important;
+  height: 300px !important;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
