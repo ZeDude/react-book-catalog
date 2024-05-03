@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Grid, Image, Button } from 'semantic-ui-react';
+import { Card, Grid, Image } from 'semantic-ui-react';
 
 function BookCard({ id, title, description = '', imageLink }) {
   const len = description.length;

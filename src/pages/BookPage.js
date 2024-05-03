@@ -1,17 +1,10 @@
 import { useReducer, useRef } from 'react';
-import {
-  Sticky,
-  Menu,
-  MenuItem,
-  Header,
-  HeaderContent
-} from 'semantic-ui-react';
+import { Header, HeaderContent, Sticky } from 'semantic-ui-react';
 import { EMPTY_FILTER, getGridLayoutByKey } from '../common/utils';
 import BookGrid from '../components/BookGrid';
 import NavBar from '../components/NavBar';
-import BookSearch from '../components/BookSearch';
-import PaginationBar from '../components/PaginationBar';
 import { useBookFetch } from '../hooks/useBookFetch';
+import BookGridController from '../components/BookGridController';
 
 const initialState = {
   currentPage: -1,
@@ -73,8 +66,6 @@ const reducerBookData = (state, action) => {
 
 const BookPage = () => {
   const [stateBookPage, dispatch] = useReducer(reducerBookData, initialState);
-  // const defaultLayout = Number(process.env.REACT_APP_BOOKS_LAYOUT_DEFAULT);
-  // const [selectedLayoutKey, setSelectedLayoutKey] = useState(defaultLayout);
   const selectedGridLayout = getGridLayoutByKey(
     stateBookPage.selectedLayoutKey
   );
@@ -91,74 +82,53 @@ const BookPage = () => {
 
   const applyFilter = (e, newFilter) => {
     e.preventDefault();
-    console.log('applyFilter', newFilter);
     dispatch({ type: 'APPLY_FILTER', payload: newFilter });
   };
   const resetFilter = (e) => {
     e.preventDefault();
-    console.log('resetFilter');
     dispatch({ type: 'RESET_FILTER' });
   };
   const handlePageChange = (e, gotoPage) => {
     e.preventDefault();
-    console.log('handlePageChange, gotoPage: ', gotoPage);
     dispatch({ type: 'GOTO_PAGE', payload: gotoPage });
-    //    console.log('handlePageChange, paginationData', paginationData);GOTO_PAGE
   };
 
   const handleGridLayoutChange = (e, selectedLayout) => {
     e.preventDefault();
-    console.log('handleGridLayoutChange, selectedLayout', selectedLayout);
     dispatch({ type: 'APPLY_LAYOUT', payload: selectedLayout });
   };
   return (
-    // <div class="ui centered three column grid"><div class="column"><div class="ui segment"><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><div class="ui left rail"><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><img src="/images/wireframe/paragraph.png" class="ui image"/><div class=""><div></div><div class="ui sticky"><h3 class="ui header">Stuck Content</h3><img src="/images/wireframe/image.png" class="ui image"/></div></div></div><div class="ui right rail"><div class=""><div></div><div class="ui sticky"><h3 class="ui header">Stuck Content</h3><img src="/images/wireframe/image.png" class="ui image"/></div></div></div></div></div></div>
     <>
       <NavBar />
-      <div ref={usedRef}>
-        <BookSearch
-          stateBookPage={stateBookPage}
-          applyFilter={applyFilter}
-          resetFilter={resetFilter}
-        />
-        {stateBookPage.currentPage < 0 && (
-          <Header as="h3" textAlign="center">
-            <HeaderContent>
-              Enter at least one term and [Apply Filter] to display books.
-            </HeaderContent>
-          </Header>
-        )}
+
+      <div ref={usedRef} style={{ paddingTop: '63px' }}>
+        <Sticky context={usedRef} offset={63}>
+          <BookGridController
+            stateBookPage={stateBookPage}
+            applyFilter={applyFilter}
+            resetFilter={resetFilter}
+            lastPage={lastPage}
+            isLoading={isLoading}
+            handlePageChange={handlePageChange}
+            handleGridLayoutChange={handleGridLayoutChange}
+          />
+          {stateBookPage.currentPage < 0 && (
+            <Header as="h3" textAlign="center">
+              <HeaderContent>
+                Enter at least one term and [Apply Filter] to display books.
+              </HeaderContent>
+            </Header>
+          )}
+        </Sticky>
         {stateBookPage.currentPage > -1 && (
-          <>
-            <Sticky context={usedRef} offset={63}>
-              <Menu
-                // attached="top"
-                style={{ border: 'none' }}
-                borderless={true}
-                size="large"
-              >
-                <MenuItem header>PAGE</MenuItem>
-                <MenuItem>
-                  <PaginationBar
-                    currentPage={stateBookPage.currentPage}
-                    lastPage={lastPage}
-                    isLoading={isLoading}
-                    selectedLayoutKey={stateBookPage.selectedLayoutKey}
-                    handlePageChange={handlePageChange}
-                    handleGridLayoutChange={handleGridLayoutChange}
-                  />
-                </MenuItem>
-              </Menu>
-            </Sticky>
-            <BookGrid
-              attached="bottom"
-              bookGridData={fetchedBooks}
-              columnsPerPage={selectedGridLayout.bookColumns}
-              rowsPerPage={selectedGridLayout.bookRows}
-              currentPage={stateBookPage.currentPage}
-              isLoading={isLoading}
-            />
-          </>
+          <BookGrid
+            attached="bottom"
+            bookGridData={fetchedBooks}
+            columnsPerPage={selectedGridLayout.bookColumns}
+            rowsPerPage={selectedGridLayout.bookRows}
+            currentPage={stateBookPage.currentPage}
+            isLoading={isLoading}
+          />
         )}
       </div>
     </>

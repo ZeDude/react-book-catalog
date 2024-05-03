@@ -1,6 +1,13 @@
-import { Icon, Button, ButtonGroup, Dropdown } from 'semantic-ui-react';
+import {
+  Icon,
+  Button,
+  ButtonGroup,
+  Dropdown,
+  Container,
+  SegmentGroup,
+  SegmentInline
+} from 'semantic-ui-react';
 import { BOOKS_GRID_LAYOUTS_OPTIONS } from '../common/utils';
-import { useState } from 'react';
 
 const PaginationBar = ({
   currentPage,
@@ -31,13 +38,10 @@ const PaginationBar = ({
     handlePageChange(e, gotoPage);
   }
   function handleGridLayout(e, data) {
-    console.log(e);
-    console.log(data);
-    // const newLayout = e.
     handleGridLayoutChange(e, data.value);
   }
   return (
-    <>
+    <SegmentInline>
       <ButtonGroup>
         <Button
           icon
@@ -64,14 +68,15 @@ const PaginationBar = ({
       </ButtonGroup>
       <Dropdown
         placeholder="Select Layout"
-        fluid
+        // fluid
+        compact
         selection
         multiple={false}
         options={layoutOptions}
         onChange={handleGridLayout}
         value={selectedLayoutKey}
       />
-    </>
+    </SegmentInline>
   );
 };
 

@@ -1,16 +1,9 @@
-import { useEffect, useRef, useState } from 'react';
-import {
-  Button,
-  Grid,
-  Container,
-  Header,
-  Form,
-  FormField
-} from 'semantic-ui-react';
+import { useState } from 'react';
+import { Button, Grid, Container, Form, FormField } from 'semantic-ui-react';
 import { MultiWordDropDown } from './MultiWordDropDown';
 import { generateMapOfKeys } from '../common/utils';
 
-const BookSearch = ({ stateBookPage, applyFilter, resetFilter }) => {
+const BookSearch = ({ stateBookPage, applyFilter, resetFilter, children }) => {
   const [termInput, setTermInput] = useState([]);
   const [titleInput, setTitleInput] = useState([]);
   const [subjectInput, setSubjectInput] = useState([]);
@@ -51,13 +44,8 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter }) => {
   };
 
   return (
-    <>
+    <div className="rbc-non-transparant-bg">
       <Container className="rbc-padding-top-1em rbc-padding-bottom-1em">
-        <Header
-          as="h2"
-          content="Book Viewer"
-          subheader="Enter your criteria and click the Apply button."
-        />
         <Form onSubmit={(e) => applyFilter(e)}>
           <FormField>
             <label>
@@ -93,7 +81,8 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter }) => {
         </Form>
       </Container>
       <Container>
-        <Grid>
+        <Grid columns={2}>
+          <Grid.Column textAlign="left">{children}</Grid.Column>
           <Grid.Column textAlign="right">
             <Button.Group>
               <Button onClick={(e) => triggerResetFilter(e)}>
@@ -111,7 +100,7 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter }) => {
           </Grid.Column>
         </Grid>
       </Container>
-    </>
+    </div>
   );
 };
 export default BookSearch;

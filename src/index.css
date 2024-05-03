@@ -35,3 +35,7 @@ code {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.rbc-non-transparant-bg {
+  background-color: #fff;
+  opacity: 1;
+}

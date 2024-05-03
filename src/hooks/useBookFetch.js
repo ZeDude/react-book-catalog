@@ -72,7 +72,7 @@ export const useBookFetch = (
       }
       setIsLoading(false);
       setFetchedBooks(booksFromCache);
-      console.log(
+      console.debug(
         `Books retrieved from cache, pageNumber ${pageNumber} booksFromCache.length ${
           booksFromCache.length
         } startIndex ${urlsObject.startIndex} endIndex ${
@@ -123,7 +123,7 @@ export const useBookFetch = (
           }
           setIsLoading(false);
           setFetchedBooks(fetchedBooks);
-          console.log(
+          console.debug(
             `Books fetched, pageNumber ${pageNumber} fetchedBooks.length ${
               fetchedBooks.length
             } startIndex ${urlsObject.startIndex} endIndex ${
