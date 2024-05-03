@@ -24,16 +24,14 @@ const BookGridController = ({
       handlePageChange={handlePageChange}
       handleGridLayoutChange={handleGridLayoutChange}
     >
-      {stateBookPage.currentPage > -1 && (
-        <PaginationBar
-          currentPage={stateBookPage.currentPage}
-          lastPage={lastPage}
-          isLoading={isLoading}
-          selectedLayoutKey={stateBookPage.selectedLayoutKey}
-          handlePageChange={handlePageChange}
-          handleGridLayoutChange={handleGridLayoutChange}
-        />
-      )}
+      <PaginationBar
+        currentPage={stateBookPage.currentPage}
+        lastPage={lastPage}
+        isLoading={isLoading}
+        selectedLayoutKey={stateBookPage.selectedLayoutKey}
+        handlePageChange={handlePageChange}
+        handleGridLayoutChange={handleGridLayoutChange}
+      />
     </BookSearch>
   );
 };

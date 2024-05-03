@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Header, HeaderContent, Segment } from 'semantic-ui-react';
+import { Container, Dimmer, Image, Loader, Segment } from 'semantic-ui-react';
 import BookRow from './BookRow';
 import { splitArrayInChunksOfSize } from '../common/utils';
 
@@ -15,24 +15,30 @@ const BookGrid = ({
   if (isLoading) {
     return (
       <Container className="rbc-navbar-tlbr-margin">
-        <Header as="h3" textAlign="center">
-          <HeaderContent>Loading ...</HeaderContent>
-        </Header>
+        <Segment>
+          <Dimmer active inverted>
+            <Loader size="medium">Loading</Loader>
+          </Dimmer>
+
+          <Image src="https://react.semantic-ui.com/images/wireframe/paragraph.png" />
+        </Segment>
       </Container>
     );
   }
+  if (currentPage < 0) {
+    return <></>;
+  }
+  const bookGrid = bookRows.map((bookRow, rowIndex) => (
+    <BookRow
+      key={`page${currentPage}row${rowIndex}id${bookRow[0].id}`}
+      bookRowData={bookRow}
+      columnsPerPage={columnsPerPage}
+      rowsPerPage={rowsPerPage}
+    />
+  ));
   return (
     <Container className="rbc-navbar-tlbr-margin">
-      <Segment raised>
-        {bookRows.map((bookRow, rowIndex) => (
-          <BookRow
-            key={`page${currentPage}row${rowIndex}id${bookRow[0].id}`}
-            bookRowData={bookRow}
-            columnsPerPage={columnsPerPage}
-            rowsPerPage={rowsPerPage}
-          />
-        ))}
-      </Segment>
+      <Segment raised>{bookGrid}</Segment>
     </Container>
   );
 };

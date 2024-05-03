@@ -5,22 +5,46 @@ export const MultiWordDropDown = ({
   typeOfWords = 'word',
   fieldLabel,
   wordOptions,
-  setWordOptions
+  setWordOptions,
+  wordOptionsValue,
+  onClearAll
 }) => {
+  // const [wordOption, setWordOption] = useState('');
+  console.log('MultiWordDropDown wordOptions: ', wordOptions);
+  console.log('MultiWordDropDown wordOptionsValue: ', wordOptionsValue);
   const placeHolder = `Type a ${typeOfWords} and enter `;
   const noResultsMessage = `Adding multiple ${typeOfWords}s => ${fieldLabel} should include ALL the ${typeOfWords}s`;
   function onChange(event, data) {
-    event.preventDefault();
-    // word removed from selection
-    if (event?.type === 'click' && event?.target?.className === 'delete icon') {
-      setWordOptions((prevOpts) =>
-        prevOpts.filter((opt) => (data.value || []).includes(opt.key))
-      );
+    // event.preventDefault();
+    if (event?.type === 'click') {
+      // word removed from selection
+      if (event?.target?.className === 'delete icon') {
+        setWordOptions((prevOpts) =>
+          prevOpts.filter((opt) => (data.value || []).includes(opt.key))
+        );
+      }
+      // all words removed from selection
+      if (event?.target?.className === 'dropdown icon clear') {
+        setWordOptions([]);
+        if (typeof onClearAll === 'function') {
+          onClearAll(event);
+        }
+      }
     }
   }
+  // dropdown icon clear
   function addItemHandler(event, data) {
     const newVal = data?.value ? data.value.toLowerCase() : '';
     if (newVal) {
+      // if (!Array.isArray(wordOptions)) {
+      //   // if (wordOptions === '') {
+      //   //   setWordOptions(newVal);
+      //   // } else
+      //   if (wordOptions !== newVal) {
+      //     const newArray = [newVal];
+      //     setWordOptions(newArray);
+      //   }
+      // } else {
       const optionExists = wordOptions.find((opt) => opt.key === newVal);
       if (!optionExists) {
         setWordOptions((prevOpts) => [
@@ -31,6 +55,7 @@ export const MultiWordDropDown = ({
             value: newVal
           }
         ]);
+        // }
       }
     }
   }
@@ -43,6 +68,7 @@ export const MultiWordDropDown = ({
       multiple
       allowAdditions
       closeOnChange
+      clearable
       onAddItem={addItemHandler}
       onChange={onChange}
       options={wordOptions}

@@ -4,20 +4,18 @@ import { MultiWordDropDown } from './MultiWordDropDown';
 import { generateMapOfKeys } from '../common/utils';
 
 const BookSearch = ({ stateBookPage, applyFilter, resetFilter, children }) => {
+  const [keyCount, setKeyCount] = useState(0);
   const [termInput, setTermInput] = useState([]);
   const [titleInput, setTitleInput] = useState([]);
   const [subjectInput, setSubjectInput] = useState([]);
-  // const firstFieldRef = useRef(null);
-  // useEffect(() => {
-  //   if (firstFieldRef?.current) {
-  //     firstFieldRef.current.focus();
-  //   }
-  // }, []);
+
+  const termOptions = [...termInput];
 
   const numerOfFilters =
     termInput.length + titleInput.length + subjectInput.length;
 
   const triggerApplyFilter = (e) => {
+    e.preventDefault();
     if (numerOfFilters < 1) {
       // do nothing
     } else {
@@ -34,13 +32,12 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter, children }) => {
     }
   };
   const triggerResetFilter = (e) => {
+    e.preventDefault();
+    setKeyCount((prev) => prev + 1);
     setTitleInput([]);
     setSubjectInput([]);
     setTermInput([]);
-    // todo check if necessary
-    if (stateBookPage.filtered !== null) {
-      resetFilter(e);
-    }
+    resetFilter(e);
   };
 
   return (
@@ -53,11 +50,13 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter, children }) => {
               books)
             </label>
             <MultiWordDropDown
+              key={`mWDD_${keyCount}`}
               typeOfWords="general term"
               fieldLabel="Books"
-              wordOptions={termInput}
+              wordOptions={termOptions}
               setWordOptions={setTermInput}
-              // ref={firstFieldRef}
+              wordOptionsValue={termInput}
+              onClearAll={triggerResetFilter}
             />
           </FormField>
           {/* <FormField>
@@ -82,16 +81,16 @@ const BookSearch = ({ stateBookPage, applyFilter, resetFilter, children }) => {
       </Container>
       <Container>
         <Grid columns={2}>
-          <Grid.Column textAlign="left">{children}</Grid.Column>
+          <Grid.Column textAlign="left">
+            {stateBookPage.currentPage > -1 && children}
+          </Grid.Column>
           <Grid.Column textAlign="right">
             <Button.Group>
-              <Button onClick={(e) => triggerResetFilter(e)}>
-                Reset Filter
-              </Button>
+              <Button onClick={triggerResetFilter}>Reset Filter</Button>
               <Button.Or />
               <Button
                 positive
-                onClick={(e) => triggerApplyFilter(e)}
+                onClick={triggerApplyFilter}
                 disabled={numerOfFilters < 1}
               >
                 Apply Filter

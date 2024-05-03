@@ -10,11 +10,7 @@ const initialState = {
   currentPage: -1,
   bookData: [],
   filtered: null,
-  filterOptions: {
-    termInput: [],
-    titleInput: [],
-    subjectInput: []
-  },
+  filterOptions: { ...EMPTY_FILTER },
   selectedLayoutKey: 50,
   lastPage: -1,
   status: 'init'
@@ -23,12 +19,6 @@ const initialState = {
 const reducerBookData = (state, action) => {
   let newState = null;
   switch (action.type) {
-    case 'INIT_PAGE':
-      newState = Object.assign({}, state, {
-        currentPage: action.payload.page,
-        status: 'loaded'
-      });
-      return newState;
     case 'GOTO_PAGE':
       newState = Object.assign({}, state, {
         currentPage: action.payload
@@ -40,13 +30,8 @@ const reducerBookData = (state, action) => {
         selectedLayoutKey: action.payload
       });
       return newState;
-    case 'CLEAR_FILTER':
-      return Object.assign({}, state, {
-        currentPage: -1,
-        bookData: [],
-        status: 'init',
-        filterOptions: EMPTY_FILTER
-      });
+    case 'RESET_FILTER':
+      return { ...initialState };
     case 'APPLY_FILTER':
       newState = Object.assign({}, state, {
         currentPage: 1,
@@ -65,13 +50,16 @@ const reducerBookData = (state, action) => {
 };
 
 const BookPage = () => {
-  const [stateBookPage, dispatch] = useReducer(reducerBookData, initialState);
+  const [stateBookPage, dispatch] = useReducer(reducerBookData, {
+    ...initialState
+  });
   const selectedGridLayout = getGridLayoutByKey(
     stateBookPage.selectedLayoutKey
   );
   const usedRef = useRef();
   const googleBookApiUrl = process.env.REACT_APP_GOOGLE_BOOK_API_URL;
   const apiKey = process.env.REACT_APP_API_KEY;
+  // eslint-disable-next-line
   const { fetchedBooks, isLoading, fetchError, lastPage } = useBookFetch(
     googleBookApiUrl,
     apiKey,
@@ -120,16 +108,14 @@ const BookPage = () => {
             </Header>
           )}
         </Sticky>
-        {stateBookPage.currentPage > -1 && (
-          <BookGrid
-            attached="bottom"
-            bookGridData={fetchedBooks}
-            columnsPerPage={selectedGridLayout.bookColumns}
-            rowsPerPage={selectedGridLayout.bookRows}
-            currentPage={stateBookPage.currentPage}
-            isLoading={isLoading}
-          />
-        )}
+        <BookGrid
+          attached="bottom"
+          bookGridData={fetchedBooks}
+          columnsPerPage={selectedGridLayout.bookColumns}
+          rowsPerPage={selectedGridLayout.bookRows}
+          currentPage={stateBookPage.currentPage}
+          isLoading={isLoading}
+        />
       </div>
     </>
   );

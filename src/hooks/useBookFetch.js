@@ -20,16 +20,19 @@ export const useBookFetch = (
   filterOptions, // filterQueryStr instead ?
   pageNumber
 ) => {
+  console.log('useBookFetch filterOptions: ', filterOptions);
+  console.log('useBookFetch gridLayoutKey: ', gridLayoutKey);
   const [fetchedBooks, setFetchedBooks] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
   const [fetchError, setFetchError] = useState(null);
   const [lastPage, setLastPage] = useState(-1);
-  const cache = useRef(initCache);
+  const cache = useRef({ ...initCache });
 
   useEffect(() => {
     if (pageNumber < 0) {
       return;
     }
+    setIsLoading(true);
     const selectedGridLayout = getGridLayoutByKey(gridLayoutKey);
     const urlsObject = generatePageEncodedQueryUrlsObject(
       url,
@@ -45,14 +48,15 @@ export const useBookFetch = (
     // startIndex = 10
     // currentCache.length = 20
     // startIndex + booksPerPage = 20
-    const currentCache = cache.current;
+
     if (
-      currentCache.lastUpdated !== null &&
-      currentCache.filterQueryStr !== urlsObject.filterQueryStr
+      cache.current.lastUpdated !== null &&
+      cache.current.filterQueryStr !== urlsObject.filterQueryStr
     ) {
       // clear cache
       cache.current = { ...initCache };
     }
+    const currentCache = cache.current;
     if (
       currentCache.isAllFetched ||
       urlsObject.startIndex + selectedGridLayout.booksPerPage - 1 <
