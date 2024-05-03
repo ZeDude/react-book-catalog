@@ -66,8 +66,6 @@ export const getGridLayoutByKey = (booksPerPage) => {
   );
 };
 
-console.log('BOOKS_GRID_LAYOUTS_OPTIONS', BOOKS_GRID_LAYOUTS_OPTIONS);
-
 /* prettier-ignore */
 export const generateFilterQueryString = (filterOptions, apiKey) => {
   const queryStr = `q=${filterOptions.termInput.join('+')}${
