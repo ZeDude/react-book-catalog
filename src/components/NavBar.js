@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Image, Menu, MenuItem } from 'semantic-ui-react';
 
 function NavBar() {
-  const [activeItem, setActiveItem] = useState('home');
+  // const [activeItem, setActiveItem] = useState('home');
 
-  const handleItemClick = (e, { name }) => setActiveItem(name);
+  // const handleItemClick = (e, { name }) => setActiveItem(name);
 
   return (
     <Menu
@@ -15,10 +15,7 @@ function NavBar() {
       inverted
     >
       <Menu.Item as="a" header>
-        <Image
-          style={{ height: '35px' }}
-          src="https://react.semantic-ui.com/logo.png"
-        />
+        <Image style={{ height: '35px' }} src="/images/logo.png" />
       </Menu.Item>
       <MenuItem header>Fred's Book Catalog</MenuItem>
       {/* <Menu.Menu position="right">

@@ -9,11 +9,11 @@ function BookCard({ id, title, description = '', imageLink }) {
       ? 'No description available.'
       : description.substring(0, 600) + suffix;
   const previewLink = `https://books.google.com/books/content?id=${id}&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api`;
-  const onImageError = (e) => {
-    if (imageLink) {
-      e.target.src = imageLink;
-    }
-  };
+  // const onImageError = (e) => {
+  //   if (imageLink) {
+  //     e.target.src = imageLink;
+  //   }
+  // };
 
   return (
     <Grid.Column>

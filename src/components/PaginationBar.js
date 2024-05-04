@@ -3,8 +3,6 @@ import {
   Button,
   ButtonGroup,
   Dropdown,
-  Container,
-  SegmentGroup,
   SegmentInline
 } from 'semantic-ui-react';
 import { BOOKS_GRID_LAYOUTS_OPTIONS } from '../common/utils';

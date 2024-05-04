@@ -20,7 +20,7 @@ const BookGrid = ({
             <Loader size="medium">Loading</Loader>
           </Dimmer>
 
-          <Image src="https://react.semantic-ui.com/images/wireframe/paragraph.png" />
+          <Image src="/images/paragraph.png" />
         </Segment>
       </Container>
     );
